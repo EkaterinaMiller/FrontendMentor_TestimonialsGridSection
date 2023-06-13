@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-design-solution](.\images\desktop-design-solution.PNG)
-![mobile-design-solution](.\images\mobile-design-solution.PNG)
+![desktop-design-solution](./images/desktop-design-solution.PNG)
+![mobile-design-solution](./images/mobile-design-solution.PNG)
 
 
 ### Links
