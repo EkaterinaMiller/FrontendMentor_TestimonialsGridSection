@@ -6,7 +6,7 @@
 }
 body{
     background-color: hsl(210, 46%, 95%);
-    color: white;
+    /* color: white; */
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 13px;
     font-weight: 500px;
@@ -16,6 +16,7 @@ body{
     padding: 5% 3%;
     max-width: 1160px;
     margin: 0 auto;
+    color: white;
 }
 
 .grid-item{
